@@ -12,7 +12,7 @@ A new Flutter project.
 ## Screenshots
 [<img src="screenshots/Home_Screen_Meal_Categories.png" width="290">](screenshots/Home_Screen_Meal_Categories.png)
 [<img src="screenshots/Side_Drawer.png" width="290">](screenshots/Side_Drawer.png)
-[<img src="screenshots/Filters_Screen_Selected.png" width="290">](screenshots/Image 2023-07-12 at 15.22.10.jpg)
+[<img src="screenshots/Filters_Screen_Selected.png" width="290">](screenshots/filters.jpg)
 [<img src="screenshots/Quick&Easy_Category_Meals.png" width="290">](screenshots/Quick&Easy_Category_Meals.png)
 [<img src="screenshots/Spaghetti_Meal_Details_Screen_Favorite.png" width="290">](screenshots/Spaghetti_Meal_Details_Screen_Favorite.png)
 [<img src="screenshots/Favorites_Screen.png" width="290">](screenshots/Favorites_Screen.png)
