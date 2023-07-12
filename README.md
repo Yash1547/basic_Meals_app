@@ -12,7 +12,7 @@ A new Flutter project.
 ## Screenshots
 [<img src="screenshots/Home_Screen_Meal_Categories.png" width="290">](screenshots/Home_Screen_Meal_Categories.png)
 [<img src="screenshots/Side_Drawer.png" width="290">](screenshots/Side_Drawer.png)
-[<img src="screenshots/Filters_Screen_Selected.png" width="290">](screenshots/filters.jpg)
+[<img src="screenshots/Filters_Screen_Selected.png" width="290">](screenshots/filters.png)
 
 ***Note***: App requires internet to load the images.
 
